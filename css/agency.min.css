@@ -138,6 +138,17 @@ body {
     font-size: 1.25em;
     padding: 12px 0;
 }
+
+.examples {
+	text-align: left;
+	width: 50%;
+}
+
+.examples2 {
+	text-align: left;
+	width: 50%;
+}
+
 }header.masthead {
     text-align: center;
     color: #fff;
