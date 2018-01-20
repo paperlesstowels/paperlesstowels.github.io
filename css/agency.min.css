@@ -40,7 +40,7 @@ section h3.section-subheading {
 }
 @media (min-width:768px) {
     section {
-    padding: 150px 0;
+    padding: 75px 0;
 }
 }.btn {
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -557,22 +557,14 @@ section#contact :-ms-input-placeholder {
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 footer {
-    padding: 25px 0;
-    text-align: center;
-}
-footer span.copyright {
-    font-size: 90%;
-    line-height: 40px;
-    text-transform: none;
+    padding: 5px 0;
+    font-size: 12px;
+    text-align: left;
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #212529;
+    color: #fff;
 }
-footer ul.quicklinks {
-    font-size: 90%;
-    line-height: 40px;
-    margin-bottom: 0;
-    text-transform: none;
-    font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
